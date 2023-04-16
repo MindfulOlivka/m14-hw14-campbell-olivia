@@ -1,11 +1,8 @@
 body {
-  background-color: rgb(205, 236, 216);
+  background-color: rgb(225, 226, 243);
 }
 
 h1 {
-  color: rgb(69, 100, 82);
+  color: rgb(102, 72, 95);
   text-shadow: 4px 4px rgba(102, 101, 101, 0.297);
-}
-.border {
-  background-color: aqua;
 }
