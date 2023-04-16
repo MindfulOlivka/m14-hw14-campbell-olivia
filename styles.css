@@ -6,8 +6,6 @@ h1 {
   color: rgb(69, 100, 82);
   text-shadow: 4px 4px rgba(102, 101, 101, 0.297);
 }
-
-.px-wide {
-  width: 800px;
-  position: center;
+.border {
+  background-color: aqua;
 }
