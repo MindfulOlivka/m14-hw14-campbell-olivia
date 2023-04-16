@@ -1,2 +1,2 @@
 # Components Used:
-- I used Card and Carousel.
+- Card and Carousel.
