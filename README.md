@@ -1,2 +1,2 @@
 # Components Used:
-- Card and Carousel.
+- Besides Navbar, I used Card and Carousel.
